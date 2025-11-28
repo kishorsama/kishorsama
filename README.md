@@ -1,9 +1,9 @@
 <h1 align="center">I'm Kishor Jawale</h1>
 <h3 align="center">Student of Engineering</h3>
 
-- 🔭 I’m ~~currently working~~ about to start **Data Structures and Algorithm**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🤝 I’m looking for help with **Stable Mind**
+- 🤝 I’m looking for help with **nothing**
 
 - 📫 How to reach me **kishorjawale.work@gmail.com**
 
