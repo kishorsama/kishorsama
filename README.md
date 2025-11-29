@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-red-one-62.vercel.app/api?username=kishorsama&show_icons=true&locale=en" alt="kishorsama" /></p>
   
 ######  ***I love VS Code***
+[![Anurag's GitHub stats](https://github-readme-stats-red-one-62.vercel.app/api?username=kishorsama&include_all_commits=true)](https://github.com/kishorsama/github-readme-stats.git)
