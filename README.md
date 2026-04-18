@@ -1,12 +1,10 @@
 <h1 align="center">I'm Kishor Jawale</h1>
 <h3 align="center">Student of Engineering</h3>
-<br>
 
 - 🤝 I’m looking for help with **understanding Roman History**
 
 - 📫 How to reach me **kishorjawale.work@gmail.com**
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +50,7 @@
 <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/></a>&nbsp;
 <a href="https://www.linuxmint.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="40"/></a>
 </p>
-<br><br>
+<br>
 <p align="left">
   <img 
     src="https://github-readme-stats-red-one-62.vercel.app/api/top-langs?username=kishorsama&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&hide_border=false" 
