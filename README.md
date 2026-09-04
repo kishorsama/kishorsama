@@ -51,18 +51,7 @@
 <a href="https://www.linuxmint.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="40"/></a>
 </p>
 <br>
-<p align="left">
-  <img 
-    src="https://github-readme-stats-red-one-62.vercel.app/api/top-langs?username=kishorsama&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=10&hide_border=false" 
-    height="195" 
-    alt="top languages" 
-  />
-  <img 
-    src="https://github-readme-stats-red-one-62.vercel.app/api?username=kishorsama&show_icons=true&locale=en&count_private=true&include_all_commits=true&all_time_contribs=true&hide_border=false" 
-    height="195" 
-    alt="github stats" 
-  />
-</p>
+
   
 ######  ***I love VS Code***
 
