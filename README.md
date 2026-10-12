@@ -18,9 +18,10 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,js,html,css&theme=dark" alt="Python, C, C++, PostgreSQL, JavaScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,ts,js,html,css&theme=dark" alt="Python, C, C++, PostgreSQL, TypeScript, JavaScript, HTML, CSS" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" />
 </p>
+
 
 ### 🧠 Machine Learning & Data Science
 
