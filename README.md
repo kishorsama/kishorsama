@@ -2,7 +2,7 @@
 
 <h3 align="center">Engineering Student | AI & Data Science</h3>
 
-- 💼 Project-Based Intern at **Atlas Copco Group (GECIA)** (building ML surrogate models for CFD)
+- 💼 Project-Based Intern at **Atlas Copco Group (GECIA)** (building ML surrogate models for FEA)
 - 🚀 Building **Inkwell** (campus delivery platform)
 - 🤝 Still looking for help with **understanding Roman History**
 - 📫 Reach me at **kishorjawale.work@gmail.com**
